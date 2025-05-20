@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 ##### Connect With me:
 ![https://x.com/0xmjfendin](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
 
-![https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
+![https://x.com/0xmjfendin](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
