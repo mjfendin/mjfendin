@@ -25,8 +25,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
 
-
-<img src="{BadgeURLHere}" />
-<img src="{BadgeURLHere}" />
-<img src="{BadgeURLHere}" />
-<img src="{BadgeURLHere}" />
+##### Connect With me:
+![https://x.com/0xmjfendin](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
