@@ -39,14 +39,3 @@ Here are some ideas to get you started:
 
 
 ### Play With Me:<img src="https://raw.githubusercontent.com/mjfendin/mjfendin/output/snake.svg" alt="Snake animation" />
-
-
-### 🟡 Pacman Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mjfendin/mjfendin/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mjfendin/mjfendin/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/mjfendin/mjfendin/output/pacman-contribution-graph.svg">
-</picture>
-
-###
