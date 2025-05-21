@@ -38,8 +38,7 @@ Here are some ideas to get you started:
 ![](https://nirzak-streak-stats.vercel.app/?user=mjfendin&theme=default&hide_border=false)<br/>
 
 
-##### Play With Me: 
-<img src="https://raw.githubusercontent.com/mjfendin/mjfendin/output/snake.svg" alt="Snake animation" />
+### Play With Me:<img src="https://raw.githubusercontent.com/mjfendin/mjfendin/output/snake.svg" alt="Snake animation" />
 
 ###
 
