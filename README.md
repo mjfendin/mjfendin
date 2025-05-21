@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 
 ##### Connect With me:
-![https://x.com/0xmjfendin](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white) ![https://github.com/mjfendin](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![https://x.com/0xmjfendin](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white) ![https://github.com/mjfendin](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![mjfendin.eth](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
