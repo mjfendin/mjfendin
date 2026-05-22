@@ -36,6 +36,3 @@ Here are some ideas to get you started:
 ![MJF ENDIN GitHub stats](https://github-readme-stats.vercel.app/api?username=mjfendin&show_icons=true&theme=buefy)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=mjfendin&theme=default&hide_border=false)<br/>
-
-
-### Play With Me:<img src="https://raw.githubusercontent.com/mjfendin/mjfendin/output/snake.svg" alt="Snake animation" />
